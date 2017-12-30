@@ -6,4 +6,5 @@
 * npm install
 
 Thank's To https://github.com/huttarichard/instagram-private-api For API
-Follow jg https://www.instagram.com/auliaahmad16/
+
+# Follow jg https://www.instagram.com/auliaahmad16/
